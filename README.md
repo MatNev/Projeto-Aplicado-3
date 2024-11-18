@@ -1,5 +1,5 @@
 # Projeto-Aplicado-3
-Projeto Aplicado 3 para o curso de Ciência de Dados da instituição Universidade Presbiteriana Mackenzie. 2024/02.
+Projeto Aplicado 3 para o curso de Ciência de Dados da instituição Universidade Presbiteriana Mackenzie. 2024/02
 
 
  ### Projeto colaborativo entre:
